@@ -7,4 +7,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.0]
 
 - Initial release
-  - Includes very trimmed down version of extension recommendations from Goonstation
+	- Includes very trimmed down version of extension recommendations from Goonstation

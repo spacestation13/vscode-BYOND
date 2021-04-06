@@ -1,31 +1,31 @@
 {
-    "name": "byond",
-    "displayName": "BYOND",
-    "description": "Extensions for working with the DreamMaker programming language.",
-    "author": "ZeWaka",
-    "publisher": "ss13",
-    "license": "ISC",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/spacestation13/vscode-BYOND-extensionpack"
-    },
-    "version": "1.0.0",
-    "icon": "byond.png",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
+	"name": "byond",
+	"displayName": "BYOND",
+	"description": "Extensions for working with the DreamMaker programming language.",
+	"author": "ZeWaka",
+	"publisher": "ss13",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/spacestation13/vscode-BYOND-extensionpack"
+	},
+	"version": "1.0.0",
+	"icon": "byond.png",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
 	"keywords": [
 		"BYOND",
-        "DM",        
-        "DreamMaker"
-	],    
-    "extensionPack": [ 
+		"DM",
+		"DreamMaker"
+	],
+	"extensionPack": [
 		"gbasood.byond-dm-language-support",
 		"platymuus.dm-langclient",
-        "stylemistake.auto-comment-blocks",        
+		"stylemistake.auto-comment-blocks",
 		"dbaeumer.vscode-eslint"
-    ]
+	]
 }
