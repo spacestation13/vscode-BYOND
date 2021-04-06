@@ -18,7 +18,9 @@
         "Extension Packs"
     ],
 	"keywords": [
-		"BYOND DreamMaker DM"
+		"BYOND",
+        "DM",        
+        "DreamMaker"
 	],    
     "extensionPack": [ 
 		"gbasood.byond-dm-language-support",
