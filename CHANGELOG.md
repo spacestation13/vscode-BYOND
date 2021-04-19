@@ -2,7 +2,10 @@
 
 All notable changes to the "byond" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.1.0]
+
+- Removed ESLint
+  - Moved to the Goonstation Extension Pack
 
 ## [1.0.0]
 

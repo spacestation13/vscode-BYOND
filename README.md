@@ -12,5 +12,3 @@ This extension pack is a collection of almost-necessary VSCode extensions for wo
 	- Reference Browser
 - [📦 Auto Comment Blocks (DM Support)](https://marketplace.visualstudio.com/items?itemName=stylemistake.auto-comment-blocks)
   - Provides block comment completion for [DMDoc](https://github.com/SpaceManiac/SpacemanDMM/tree/master/src/dmdoc)-style multi-line comments and single-line comment blocks
-- [📦 ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  - Linting and formatting for Javascript interfaces
