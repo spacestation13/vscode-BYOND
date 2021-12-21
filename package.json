@@ -9,10 +9,10 @@
 		"type": "git",
 		"url": "https://github.com/spacestation13/vscode-BYOND"
 	},
-	"version": "1.1.0",
+	"version": "1.2.1",
 	"icon": "byond.png",
 	"engines": {
-		"vscode": "^1.55.0"
+		"vscode": "^1.60.0"
 	},
 	"categories": [
 		"Extension Packs"
@@ -23,7 +23,6 @@
 		"DreamMaker"
 	],
 	"extensionPack": [
-		"gbasood.byond-dm-language-support",
 		"platymuus.dm-langclient",
 		"stylemistake.auto-comment-blocks"
 	]

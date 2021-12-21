@@ -2,6 +2,12 @@
 
 All notable changes to the "byond" extension pack will be documented in this file.
 
+
+## [1.2.1]
+
+- Removed BYOND DM Language Support
+  - Syntax Highlighting is now provided by the Language Server
+
 ## [1.1.0]
 
 - Removed ESLint
