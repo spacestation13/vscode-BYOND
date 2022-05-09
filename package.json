@@ -1,7 +1,7 @@
 {
 	"name": "byond",
 	"displayName": "BYOND",
-	"description": "Extensions for working with the DreamMaker programming language.",
+	"description": "Extensions for working with the DreamMaker programming language and BYOND ecosystem.",
 	"author": "ZeWaka",
 	"publisher": "ss13",
 	"license": "ISC",
@@ -9,7 +9,7 @@
 		"type": "git",
 		"url": "https://github.com/spacestation13/vscode-BYOND"
 	},
-	"version": "1.2.1",
+	"version": "1.3.0",
 	"icon": "byond.png",
 	"engines": {
 		"vscode": "^1.60.0"
@@ -24,6 +24,7 @@
 	],
 	"extensionPack": [
 		"platymuus.dm-langclient",
-		"stylemistake.auto-comment-blocks"
+		"stylemistake.auto-comment-blocks",
+		"anturk.dmi-editor"
 	]
 }

@@ -3,6 +3,9 @@
 All notable changes to the "byond" extension pack will be documented in this file.
 
 
+## [1.3.0]
+- Added DMI Editor by AnturK for rich DMI support
+
 ## [1.2.1]
 
 - Removed BYOND DM Language Support
