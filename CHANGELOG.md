@@ -2,6 +2,8 @@
 
 All notable changes to the "byond" extension pack will be documented in this file.
 
+## [1.4.0]
+- Added EditorConfig for code consistency
 
 ## [1.3.0]
 - Added DMI Editor by AnturK for rich DMI support
