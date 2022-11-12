@@ -1,4 +1,4 @@
-# BYOND
+# DreamMaker
 This extension pack is an opiniated collection of recommended VSCode extensions for working with the DreamMaker language and BYOND ecosystem.
 As this is an opiniated collection, feel free to comment on the repository regarding additions and removals.
 

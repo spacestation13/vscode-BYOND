@@ -1,8 +1,9 @@
 # Change Log
 
-All notable changes to the "byond" extension pack will be documented in this file.
+All notable changes to the "dreammaker" extension pack will be documented in this file.
 
-## [1.4.0]
+## [2.0.0]
+- Renamed to DreamMaker Extension Pack
 - Added EditorConfig for code consistency
 
 ## [1.3.0]

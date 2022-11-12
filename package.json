@@ -1,6 +1,6 @@
 {
 	"name": "byond",
-	"displayName": "BYOND",
+	"displayName": "DreamMaker",
 	"description": "Extensions for working with the DreamMaker programming language and BYOND ecosystem.",
 	"author": "ZeWaka",
 	"publisher": "ss13",
@@ -9,7 +9,7 @@
 		"type": "git",
 		"url": "https://github.com/spacestation13/vscode-BYOND"
 	},
-	"version": "1.4.0",
+	"version": "2.0.0",
 	"icon": "byond.png",
 	"engines": {
 		"vscode": "^1.60.0"
