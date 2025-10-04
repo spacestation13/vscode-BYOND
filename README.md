@@ -10,7 +10,7 @@ As this is an opiniated collection, feel free to comment on the repository regar
 	- Debugging
 	- Build System
 	- Reference Browser
-- [📦 Auto Comment Blocks (DM Support)](https://marketplace.visualstudio.com/items?itemName=stylemistake.auto-comment-blocks)
+- [📦 Auto Comment Blocks (DM Support)](https://marketplace.visualstudio.com/items?itemName=ss13.auto-comment-blocks)
 	- Provides block comment completion for [DMDoc](https://github.com/SpaceManiac/SpacemanDMM/tree/master/src/dmdoc)-style multi-line comments and single-line comment blocks
 - [📦 DMI Editor](https://marketplace.visualstudio.com/items?itemName=anturk.dmi-editor)
 	- Provides rich support for DMI asset files

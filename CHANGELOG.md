@@ -2,6 +2,9 @@
 
 All notable changes to the "dreammaker" extension pack will be documented in this file.
 
+## [2.1.0]
+- Switched to a ss13 org 'Auto Comment Blocks' extension due to extension marketplace weirdness
+
 ## [2.0.0]
 - Renamed to DreamMaker Extension Pack
 - Added EditorConfig for code consistency
